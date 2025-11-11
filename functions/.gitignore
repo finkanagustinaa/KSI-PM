@@ -1,4 +1,4 @@
-Ketergantungan yang diinstal secara lokal.
+#Ketergantungan yang diinstal secara lokal.
 node_modules
 
 # File hasil kompilasi TypeScript

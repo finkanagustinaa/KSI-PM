@@ -1,0 +1,27 @@
+name: absensi_polinela
+description: A new Flutter project for Polinela Attendance System.
+publish_to: 'none' # Remove this line if you intend to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Sesuaikan dengan versi Flutter yang akan didownload
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Tambahkan Google Fonts
+  google_fonts: ^6.1.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# Bagian penting untuk aset dan desain
+flutter:
+  uses-material-design: true
+  # Daftarkan folder assets/images di sini nanti
+  # assets:
+  #   - assets/images/
